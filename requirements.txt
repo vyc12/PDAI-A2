@@ -1,0 +1,13 @@
+streamlit
+youtube-transcript-api
+openai
+langchain
+langchain-openai
+sentence-transformers
+pandas
+scikit-learn
+numpy
+requests
+python-dotenv
+streamlit-mic-recorder
+langchain-community
